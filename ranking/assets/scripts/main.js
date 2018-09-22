@@ -19,7 +19,7 @@ closes.forEach(function(close){
         content.classList.add("animated");
         content.classList.add("bounceOutRight");
         setTimeout(() => {
-            location.href="/index.html";
+            location.href="https://moisesolguin.github.io/ranking/";
         },500);
 
     })
